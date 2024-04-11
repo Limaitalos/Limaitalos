@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ítalo, estou cursando ADS.
-- 👀 I’m interested in  bacck end
+- 👋 Hi, I’m Ítalo.
+- 👀 I’m interested in  backend
 - 🌱 I’m currently learning  banco de dados
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
