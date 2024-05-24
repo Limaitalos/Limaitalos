@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ítalo.
-- 👀 I’m interested in  backend
-- 🌱 I’m currently learning  banco de dados
+- 👀 I’m interested in  Back End
+- 🌱 I’m currently learning DATABASE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
