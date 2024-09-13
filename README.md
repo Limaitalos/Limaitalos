@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ítalo.
--# Olá Mundo
+
+# Olá Mundo
 Ítalo aqui!
 
 Estudante de análise  e desenvolvimento de sistemas. 
