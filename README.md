@@ -14,7 +14,7 @@ Atualmente busco oportunidade na área de desenvolvimento e tecnologia de inform
 
 
 
-Me encontre aqui: 
+Me encontre aqui também: 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ítalo-lima-698875242/)
