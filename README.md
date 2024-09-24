@@ -3,7 +3,7 @@
 Ítalo aqui!
 
 Estudante de análise  e desenvolvimento de sistemas. 
-Atualmente busco oportunidade na área de desenvolvimento e tecnologia de informação.
+Atualmente busco oportunidade na área de desenvolvimento e tecnologia da informação.
 
 # Habilidades
 
